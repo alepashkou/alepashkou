@@ -1,8 +1,8 @@
 # 💫 About Me:
 
 <div align=center>
-
-I am Full Stack Developer.
+  
+I am Full-Stack Web Developer.
 
 </div>
 
